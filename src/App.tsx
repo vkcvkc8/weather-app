@@ -81,7 +81,8 @@ function App() {
       <div className="bg-white rounded-xl shadow-lg w-full max-w-md overflow-hidden">
         <div className="p-6">
           <h1 className="text-2xl font-bold text-gray-800 mb-4">Weather App</h1>
-          
+          <p>/Imagine a photorealistic tableau of Emma Watson, her tiny stature (1:100 ratio compared to Hagrid) creating a jaw-dropping contrast with Hagrid's colossal frame, as they plummet vertically through the clouds in a high-speed nose dive during the vibrant Holi festivities. She sits astride a broomstick, wearing a strapless bikini top paired with swimsuit underwear, the minimal fabric accentuating her figure, with vibrant Holi colors splashed across her outfit. The deep décolletage of her bikini top draws attention to her graceful curves, highlighted by the golden afternoon sunlight, adding depth and dimension to her form. Her lengthy red tresses cascade backward in the wind as she bends forward, her body parallel to the broomstick, while Hagrid, his gigantic form towering over her like a mountain, sits behind her, his massive hands (each larger than her entire torso) resting firmly on her hips, his fingers gently pressing into the soft contours of her waist as he guides her through the dive. The extreme size difference is emphasized as his broad chest presses against her back, his hands nearly encircling her completely. Golden afternoon sunlight illuminates swirling clouds of pink, yellow, and green Holi powder in the air as they plummet vertically through the sky at breakneck speed, the Hogwarts castle towers and turrets visible in the distance, the Quidditch pitch and green grounds displaying scattered colored powders far below. Cinematic quality, emotional connection, detailed facial expressions.
+</p>
           <form onSubmit={handleSubmit} className="mb-6">
             <div className="relative">
               <input
